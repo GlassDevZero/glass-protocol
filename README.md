@@ -16,4 +16,4 @@ GLASS is an open-source protocol designed to turn entire stadiums into massive, 
 The protocol is defined in `GLASS_Core.h`. It focuses on low-overhead UDP-like packets broadcasted over Auracast.
 
 ---
-*Created in Brno. For collaboration or commercial licensing, contact the author via this repository.*
+*For collaboration or commercial licensing, contact the author via this repository.*
